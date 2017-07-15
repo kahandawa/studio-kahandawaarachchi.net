@@ -1,0 +1,78 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.studio kahandawaarachchi.com" resolutions="1x" timestamp="1499512408315">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="gallery.css" crc="4144160565" ref="gallery"/>
+    <file name="index.css" crc="4221317699" ref="index"/>
+    <file name="about.css" crc="3960357652" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:gallery"/>
+    <file name="museutils.js" crc="46400467" ref="index:about:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:gallery"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:about:gallery"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:about:gallery"/>
+    <file name="require.js" crc="85721165" ref="index:about:gallery"/>
+    <file name="webpro.js" crc="4152390327" ref="gallery"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="gallery"/>
+    <file name="touchswipe.js" crc="4228958816" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="15165-crop-u746.jpg" crc="57615161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1 copy.jpg" crc="248309600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:gallery"/>
+    <file name="img_7348.jpg" crc="465100107" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7404.jpg" crc="132284880" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7405.jpg" crc="4198121367" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7450.jpg" crc="4005462339" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7454.jpg" crc="3977241196" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7468.jpg" crc="274684857" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7506.jpg" crc="4169764997" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7513.jpg" crc="4004396983" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7561.jpg" crc="3803827332" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7666.jpg" crc="4073585702" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7677.jpg" crc="444298514" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7683.jpg" crc="3822109170" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7737.jpg" crc="497271342" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7738.jpg" crc="3760640395" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_7786.jpg" crc="4101460604" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+  </folder>
+  <file name="index.html" crc="363568415" seo="true" mt="1499511011300" redirect="true"/>
+  <file name="about.html" crc="4035722314" seo="true" mt="1499511704657" redirect="true"/>
+  <file name="gallery.html" crc="243002301" seo="true" mt="1499510621031" redirect="true"/>
+</manifest>
